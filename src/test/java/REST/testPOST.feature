@@ -39,11 +39,11 @@ Feature: Consultas de tipo POST
     Then status 201
     Examples:
       | caso           | name | vName  | job | vJob         |
-      | name completo  | name | "Mati" | job | "Automation" |
-      | name vacio     | name |        | job | "Automation" |
-      | name null      | name | null   | job | "Automation" |
-      | sin campo name |      |        | job | "Automation" |
-      | job completo   | name | "Mati" | job | "Automation" |
-      | job vacio      | name | "Mati" | job | ""           |
-      | job null       | name | "Mati" | job | null         |
-      | sin campo job  | name | "Mati" |     | ""           |
+      | Name completo  | name | "Mati" | job | "Automation" |
+      | Name vacio     | name |        | job | "Automation" |
+      | Name null      | name | null   | job | "Automation" |
+      | Sin campo name |      |        | job | "Automation" |
+      | Job completo   | name | "Mati" | job | "Automation" |
+      | Job vacio      | name | "Mati" | job | ""           |
+      | Job null       | name | "Mati" | job | null         |
+      | Sin campo job  | name | "Mati" |     | ""           |
