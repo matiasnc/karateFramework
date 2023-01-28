@@ -1,4 +1,4 @@
-@FeaturePOST
+@Regresion @FeaturePOST
 Feature: Consultas de tipo POST
 
   Scenario: POST OK

@@ -1,3 +1,4 @@
+@Regresion
 Feature: Consultas de tipo DELETE
 
   Scenario: DELETE OK

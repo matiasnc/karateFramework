@@ -1,4 +1,4 @@
-@FeatureGET
+@Regresion @FeatureGET
 Feature: Consultas de tipo GET
 
   Scenario: GET OK number

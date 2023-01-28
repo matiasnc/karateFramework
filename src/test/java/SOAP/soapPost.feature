@@ -1,4 +1,4 @@
-@SoapFeaturePOST
+@Regresion @SoapFeaturePOST
 Feature: Consultas de tipo SOAP
 
   @AssertTypeSOAP

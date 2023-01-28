@@ -1,0 +1,9 @@
+caso,name,vName,job,vJob
+Name completo,name,"Mati",job,"Automation"
+Name vacio,name,,job,"Automation"
+Name null,name,null,job,"Automation"
+Sin campo name,,,job,"Automation"
+Job completo,name,"Mati",job,"Automation"
+Job vacio,name,"Mati",job,""
+Job null,name,"Mati",job,null
+Sin campo job,name,"Mati",,""
