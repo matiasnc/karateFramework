@@ -5,3 +5,5 @@ Lectura de archivos CSV. Consultas y aserciones SQL.
 REST: https://reqres.in/
 
 SOAP: https://www.postman.com/cs-demo/workspace/public-soap-apis/overview
+
+Ejecucion por terminal: mvn clean test -Dtest=karateRunner
